@@ -14,9 +14,6 @@
 ## ✉️ Connect With Me
 Feel free to explore, fork, or contribute to my projects. Let's collaborate and grow together!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Waser-Al-Karim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
