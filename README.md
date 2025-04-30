@@ -1,4 +1,4 @@
-🚀 DevOps Enthusiast | 🌐 Building Scalable, Reliable Systems | 🔧 Automation & Infrastructure as Code
+DevOps Enthusiast | Python is Love | Building Scalable, Reliable Systems | Automation & Infrastructure as Code
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Waseralkareem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waser_al_kareem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waser-al-karim-2b64a9196/) 
