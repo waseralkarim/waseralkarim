@@ -2,7 +2,7 @@
 
 **`Cloud & DevOps Engineer`**
 
-| Python is Love | DevOps / Cloud Engineer focused on building scalable, reliable, and automated infrastructure. I work with Kubernetes, containerization, CI/CD, IaC, monitoring stacks and AI/streaming deployments. I enjoy turning manual workflows into repeatable, testable automation and improving observability and performance across distributed systems.
+DevOps / Cloud Engineer focused on building scalable, reliable, and automated infrastructure. I work with Kubernetes, containerization, CI/CD, IaC, monitoring stacks and AI/streaming deployments. I enjoy turning manual workflows into repeatable, testable automation and improving observability and performance across distributed systems.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waser-al-karim-2b64a9196/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Waseralkareem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waser_al_kareem)  
@@ -15,3 +15,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=waseralkarim&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waseralkarim&label=Profile%20views&color=0e75b6&style=flat" alt="waseralkarim" /> </p>
